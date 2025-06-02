@@ -8,7 +8,7 @@ A basic full-stack Todo application with:
 
 ```
 Todo/
-├── backend/         ← Spring Boot service
+├── src         ← Spring Boot service
 └── todo-frontend/   ← React UI
 ```
 
@@ -16,9 +16,7 @@ Todo/
 
 ### 1. Backend
 
-1. Open a terminal and go into the backend folder:
-   ```bash
-   cd backend
+1. Open application from any IDE and run it
    ```
 2. Start the Spring Boot server:
    ```bash
